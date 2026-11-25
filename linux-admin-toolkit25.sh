@@ -20,7 +20,7 @@ do
         1) hostnamectl ;;
         2) df -h ;;
         3) free -h ;;
-        4) who ;;
+        4) whoami ;;
         5) ps aux ;;
         6) ss -tuln ;;
         7) systemctl --failed ;;
